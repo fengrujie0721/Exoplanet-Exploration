@@ -18,7 +18,7 @@ Seperate the data into training and testing data
 
 
 
- 2.Select Model and Tune Model
+   2. Select Model and Tune Model
 
 
 
