@@ -4,7 +4,7 @@ A planet-hunting mission is to discover hidden planets outside of our solar syst
 
 
 1. Preprocess the data:
-2. 
+
 
 Drop unnecessary rows and columns
 
@@ -20,6 +20,7 @@ Seperate the data into training and testing data
 
 
 2.Select Model and Tune Model
+
 
 
 Logistic Regression model was used to classify the data. The training data score is 0.85 and the testing data score is around 0.84.
