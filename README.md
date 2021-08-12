@@ -5,14 +5,14 @@ A planet-hunting mission is to discover hidden planets outside of our solar syst
 1. Preprocess the data:
 
 
-Drop unnecessary rows and columns
+Drop unnecessary rows and columns.
 
 
-Use MinMaxScaler to scale the numerical data
+Use MinMaxScaler to scale the numerical data.
 
 
 
-Seperate the data into training and testing data
+Seperate the data into training and testing data.
 
 
 
