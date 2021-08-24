@@ -1,6 +1,6 @@
 # Exoplanet Exploration
 
-A planet-hunting mission is to discover hidden planets outside of our solar system. A machine learning model is created to classify candidate exoplanets based on raw dataset.
+A planet-hunting mission is to discover hidden planets outside of our solar system. 3 machine learning models are created to classify candidate exoplanets based on raw dataset.
 
 1. Preprocess the data:
 
